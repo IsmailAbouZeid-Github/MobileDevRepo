@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_1_COSC435</string>
+    <string-array name="picture_captions">
+        <item>My Beard</item>
+        <item>At Home</item>
+        <item>Look At My Cards</item>
+        <item>Look At My Cat</item>
+    </string-array>
+</resources>
