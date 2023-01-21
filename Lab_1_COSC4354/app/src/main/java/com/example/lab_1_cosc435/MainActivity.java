@@ -17,6 +17,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;
+    String s2[];
 
     String s1[];
     int images[] = {R.drawable.chad,R.drawable.home,R.drawable.royale,R.drawable.poseidon};
